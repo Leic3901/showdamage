@@ -1,3 +1,5 @@
+#展示实体执行
+
 ##粒子寿命减少
 scoreboard players remove @s dp_life 1
 ##粒子存在计时增加
